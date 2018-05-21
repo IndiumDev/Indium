@@ -1,0 +1,26 @@
+# /etc/conf.d/Indiumd: config file for /etc/init.d/Indiumd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/indium/indium.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/Indiumd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/Indiumd.pid"
+
+# Where to write Indiumd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/Indiumd"
+
+# User and group to own Indiumd process
+#BITCOIND_USER="indium"
+#BITCOIND_GROUP="indium"
+
+# Path to Indiumd executable
+#BITCOIND_BIN="/usr/bin/Indiumd"
+
+# Nice value to run Indiumd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

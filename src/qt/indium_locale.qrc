@@ -1,0 +1,35 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/Indium_bg.qm</file>
+        <file alias="ca">locale/Indium_ca.qm</file>
+        <file alias="cs">locale/Indium_cs.qm</file>
+        <file alias="da">locale/Indium_da.qm</file>
+        <file alias="de">locale/Indium_de.qm</file>
+        <file alias="en">locale/Indium_en.qm</file>
+        <file alias="en_US">locale/Indium_en_US.qm</file>
+        <file alias="es">locale/Indium_es.qm</file>
+        <file alias="es_ES">locale/Indium_es_ES.qm</file>
+        <file alias="fi">locale/Indium_fi.qm</file>
+        <file alias="fr_FR">locale/Indium_fr_FR.qm</file>
+        <file alias="hi_IN">locale/Indium_hi_IN.qm</file>
+        <file alias="hr">locale/Indium_hr.qm</file>
+        <file alias="hr_HR">locale/Indium_hr_HR.qm</file>
+        <file alias="it">locale/Indium_it.qm</file>
+        <file alias="ja">locale/Indium_ja.qm</file>
+        <file alias="ko_KR">locale/Indium_ko_KR.qm</file>
+        <file alias="lt_LT">locale/Indium_lt_LT.qm</file>
+        <file alias="nl">locale/Indium_nl.qm</file>
+        <file alias="pl">locale/Indium_pl.qm</file>
+        <file alias="pt">locale/Indium_pt.qm</file>
+        <file alias="pt_BR">locale/Indium_pt_BR.qm</file>
+        <file alias="ro_RO">locale/Indium_ro_RO.qm</file>
+        <file alias="ru">locale/Indium_ru.qm</file>
+        <file alias="sk">locale/Indium_sk.qm</file>
+        <file alias="sv">locale/Indium_sv.qm</file>
+        <file alias="tr">locale/Indium_tr.qm</file>
+        <file alias="uk">locale/Indium_uk.qm</file>
+        <file alias="vi">locale/Indium_vi.qm</file>
+        <file alias="zh_CN">locale/Indium_zh_CN.qm</file>
+        <file alias="zh_TW">locale/Indium_zh_TW.qm</file>
+    </qresource>
+</RCC>
